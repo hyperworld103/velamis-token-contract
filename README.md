@@ -4,7 +4,7 @@ Velamis is ERC20 token for Velamis tokenomics
 ### Installation
 ```sh
 # Clone the repo
-    git clone https://github.com/stackpower103/velamis-tokenomics.git
+    git clone https://github.com/stackpower103/velamis-token-contract.git
 # Install all dependencies
     npm install
 ```
